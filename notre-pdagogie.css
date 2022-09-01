@@ -1,0 +1,31 @@
+body {
+  line-height: normal;
+}
+.notre-pdagige-privilgie {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.nous-crons-un,
+body {
+  margin: 0;
+}
+.notre-pdagige-privilgie-la-p {
+  position: absolute;
+  top: 94px;
+  left: 57px;
+  display: inline-block;
+}
+.notre-pdagogie-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 879px;
+  height: 370px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}

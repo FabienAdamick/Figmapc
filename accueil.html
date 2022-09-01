@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./accueil.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arial:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="accueil-div1">
+      <img class="oip-2-icon1" alt="" src="public/oip-2@2x.png" /><img
+        class="ellipse-icon29"
+        alt=""
+        src="public/ellipse-10.svg"
+      /><img class="ellipse-icon30" alt="" src="public/ellipse-11.svg" /><img
+        class="ellipse-icon31"
+        alt=""
+        src="public/ellipse-12.svg"
+      /><img class="oip-1-11" alt="" src="public/oip-1-1@2x.png" />
+      <div class="group-div46">
+        <div class="rectangle-div45"></div>
+        <b class="je-dcouvre-la-formation1" id="jeDcouvreLa"
+          ><p class="je-dcouvre-la1">Je découvre la formation</p></b
+        >
+      </div>
+      <img
+        class="logo-twitter-icon8"
+        alt=""
+        src="public/logo-twitter8@2x.png"
+        id="logoTwitterIcon"
+      /><img
+        class="logo-facebook-icon8"
+        alt=""
+        src="public/logo-facebook8@2x.png"
+        id="logoFacebookIcon"
+      /><img
+        class="logo-youtube-icon8"
+        alt=""
+        src="public/logo-youtube@2x.png"
+        id="logoYoutubeIcon"
+      /><b class="formation-web-et-web-mobile-un1"
+        ><p class="je-dcouvre-la1">FORMATION WEB ET WEB MOBILE</p>
+        <p class="je-dcouvre-la1">Une formation gratuite et rémunérée</p>
+        <p class="je-dcouvre-la1">pour les demandeurs d’emplois.</p>
+        <p class="je-dcouvre-la1">&nbsp;</p>
+        <p class="blank-line-p19">&nbsp;</p></b
+      ><b class="accueil-b9">ACCUEIL</b
+      ><b class="la-formation-b9" id="lAFORMATIONText">LA FORMATION</b
+      ><b class="temoignages-b5" id="tEMOIGNAGESText">TEMOIGNAGES</b
+      ><b class="nos-references-b5" id="nOSREFERENCESText">NOS REFERENCES</b
+      ><b class="contactez-nous-b9" id="cONTACTEZNOUSText">CONTACTEZ-NOUS</b>
+    </div>
+
+    <script>
+      var jeDcouvreLa = document.getElementById("jeDcouvreLa");
+      if (jeDcouvreLa) {
+        jeDcouvreLa.addEventListener("click", function (e) {
+          window.location.href = "./la-formation.html";
+        });
+      }
+      
+      var logoTwitterIcon = document.getElementById("logoTwitterIcon");
+      if (logoTwitterIcon) {
+        logoTwitterIcon.addEventListener("click", function () {
+          window.open("https://twitter.com/afpa_formation");
+        });
+      }
+      
+      var logoFacebookIcon = document.getElementById("logoFacebookIcon");
+      if (logoFacebookIcon) {
+        logoFacebookIcon.addEventListener("click", function () {
+          window.open("https://www.facebook.com/Afpa.France/");
+        });
+      }
+      
+      var logoYoutubeIcon = document.getElementById("logoYoutubeIcon");
+      if (logoYoutubeIcon) {
+        logoYoutubeIcon.addEventListener("click", function () {
+          window.open("https://www.youtube.com/user/AfpaWebTv");
+        });
+      }
+      
+      var lAFORMATIONText = document.getElementById("lAFORMATIONText");
+      if (lAFORMATIONText) {
+        lAFORMATIONText.addEventListener("click", function (e) {
+          window.location.href = "./la-formation.html";
+        });
+      }
+      
+      var tEMOIGNAGESText = document.getElementById("tEMOIGNAGESText");
+      if (tEMOIGNAGESText) {
+        tEMOIGNAGESText.addEventListener("click", function (e) {
+          window.location.href = "./nos-tmoignages.html";
+        });
+      }
+      
+      var nOSREFERENCESText = document.getElementById("nOSREFERENCESText");
+      if (nOSREFERENCESText) {
+        nOSREFERENCESText.addEventListener("click", function (e) {
+          window.location.href = "./rfrences.html";
+        });
+      }
+      
+      var cONTACTEZNOUSText = document.getElementById("cONTACTEZNOUSText");
+      if (cONTACTEZNOUSText) {
+        cONTACTEZNOUSText.addEventListener("click", function (e) {
+          window.location.href = "./contactez-nous.html";
+        });
+      }
+      </script>
+  </body>
+</html>

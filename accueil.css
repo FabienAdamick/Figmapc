@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.oip-2-icon1 {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon29,
+.ellipse-icon30 {
+  position: absolute;
+  top: 0;
+  left: 478px;
+  width: 1056px;
+  height: 560px;
+}
+.ellipse-icon30 {
+  left: 0;
+  width: 837px;
+  height: 567px;
+}
+.ellipse-icon31,
+.oip-1-11 {
+  position: absolute;
+  top: 65px;
+  left: 846px;
+  width: 783px;
+  height: 718px;
+}
+.oip-1-11 {
+  top: 348px;
+  left: 0;
+  width: 665px;
+  height: 420px;
+  object-fit: cover;
+}
+.rectangle-div45 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  width: 295px;
+  height: 35px;
+}
+.je-dcouvre-la1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.je-dcouvre-la-formation1 {
+  position: absolute;
+  top: 7px;
+  left: 15px;
+  display: inline-block;
+  width: 269px;
+  height: 35px;
+  cursor: pointer;
+}
+.group-div46 {
+  position: absolute;
+  top: 541px;
+  left: 701px;
+  width: 295px;
+  height: 42px;
+  font-size: 22px;
+}
+.logo-facebook-icon8,
+.logo-twitter-icon8,
+.logo-youtube-icon8 {
+  position: absolute;
+  top: 733px;
+  left: 1329px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon8,
+.logo-youtube-icon8 {
+  left: 1298px;
+}
+.logo-youtube-icon8 {
+  left: 1242px;
+  width: 50px;
+}
+.blank-line-p19 {
+  margin: 0;
+}
+.formation-web-et-web-mobile-un1 {
+  position: absolute;
+  top: 397px;
+  left: 701px;
+  font-size: 22px;
+  display: inline-block;
+  width: 389px;
+  height: 112px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.accueil-b9 {
+  position: absolute;
+  top: 113px;
+  left: 301px;
+  display: inline-block;
+}
+.contactez-nous-b9,
+.la-formation-b9,
+.nos-references-b5,
+.temoignages-b5 {
+  position: absolute;
+  top: 113px;
+  left: 439px;
+  display: inline-block;
+  cursor: pointer;
+}
+.contactez-nous-b9,
+.nos-references-b5,
+.temoignages-b5 {
+  left: 641px;
+}
+.contactez-nous-b9,
+.nos-references-b5 {
+  left: 840px;
+}
+.contactez-nous-b9 {
+  left: 1068px;
+}
+.accueil-div1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}

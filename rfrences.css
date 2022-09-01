@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.oip-5-icon1 {
+  position: absolute;
+  top: 8px;
+  left: 23px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1293px;
+  height: 748px;
+}
+.ellipse-icon17,
+.ellipse-icon18 {
+  position: absolute;
+  top: 0;
+  left: 129px;
+  width: 1408px;
+  height: 942px;
+}
+.ellipse-icon18 {
+  left: 766px;
+  width: 1131px;
+  height: 1191px;
+}
+.accueil-b5,
+.la-formation-b5,
+.tmoignages-b2 {
+  position: absolute;
+  top: 141px;
+  left: 354px;
+  display: inline-block;
+  cursor: pointer;
+}
+.la-formation-b5,
+.tmoignages-b2 {
+  left: 507px;
+}
+.tmoignages-b2 {
+  left: 710px;
+}
+.contactez-nous-b5,
+.nos-rfrences-b2 {
+  position: absolute;
+  top: 141px;
+  left: 921px;
+  display: inline-block;
+}
+.contactez-nous-b5 {
+  left: 1147px;
+  cursor: pointer;
+}
+.logo-1-icon1,
+.logo-2-icon1 {
+  position: absolute;
+  top: 555.49px;
+  left: 56.73px;
+  border-radius: 412px;
+  width: 400px;
+  height: 250.59px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-2-icon1 {
+  top: 555.37px;
+  left: 568.56px;
+  height: 243.76px;
+}
+.ces-entreprises-nous-ont-fait1 {
+  position: absolute;
+  top: 343px;
+  left: 57px;
+  font-size: 40px;
+  display: inline-block;
+}
+.rfrences-div1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}

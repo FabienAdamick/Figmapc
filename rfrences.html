@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./rfrences.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arial:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="rfrences-div1">
+      <img class="oip-5-icon1" alt="" src="public/oip-2@2x.png" /><img
+        class="ellipse-icon16"
+        alt=""
+        src="public/ellipse-15.svg"
+      /><img class="ellipse-icon17" alt="" src="public/ellipse-16.svg" /><img
+        class="ellipse-icon18"
+        alt=""
+        src="public/ellipse-17.svg"
+      /><b class="accueil-b5" id="accueilText">Accueil</b
+      ><b class="la-formation-b5" id="laFormationText">La formation </b
+      ><b class="tmoignages-b2" id="tmoignagesText">Témoignages</b
+      ><b class="nos-rfrences-b2">Nos références</b
+      ><b class="contactez-nous-b5" id="contactezNousText">Contactez-nous</b
+      ><img
+        class="logo-1-icon1"
+        alt=""
+        src="public/logo-1@2x.png"
+        id="logo1Image"
+      /><img
+        class="logo-2-icon1"
+        alt=""
+        src="public/logo-2@2x.png"
+        id="logo2Image"
+      /><b class="ces-entreprises-nous-ont-fait1"
+        >Ces entreprises nous ont fait confiance</b
+      >
+    </div>
+
+    <script>
+      var accueilText = document.getElementById("accueilText");
+      if (accueilText) {
+        accueilText.addEventListener("click", function (e) {
+          window.location.href = "./accueil.html";
+        });
+      }
+      
+      var laFormationText = document.getElementById("laFormationText");
+      if (laFormationText) {
+        laFormationText.addEventListener("click", function (e) {
+          window.location.href = "./la-formation.html";
+        });
+      }
+      
+      var tmoignagesText = document.getElementById("tmoignagesText");
+      if (tmoignagesText) {
+        tmoignagesText.addEventListener("click", function (e) {
+          window.location.href = "./nos-tmoignages.html";
+        });
+      }
+      
+      var contactezNousText = document.getElementById("contactezNousText");
+      if (contactezNousText) {
+        contactezNousText.addEventListener("click", function (e) {
+          window.location.href = "./contactez-nous.html";
+        });
+      }
+      
+      var logo1Image = document.getElementById("logo1Image");
+      if (logo1Image) {
+        logo1Image.addEventListener("click", function () {
+          window.open("https://www.akka-technologies.com/about-us/?lang=fr");
+        });
+      }
+      
+      var logo2Image = document.getElementById("logo2Image");
+      if (logo2Image) {
+        logo2Image.addEventListener("click", function () {
+          window.open("https://www.wisy.fr/wisy-ssii-tulle/");
+        });
+      }
+      </script>
+  </body>
+</html>
