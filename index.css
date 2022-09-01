@@ -1,0 +1,1495 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.oip-2-icon {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.ellipse-icon1 {
+  position: absolute;
+  top: 0;
+  left: 478px;
+  width: 1056px;
+  height: 560px;
+}
+.ellipse-icon1 {
+  left: 0;
+  width: 837px;
+  height: 567px;
+}
+.ellipse-icon2,
+.oip-1-1 {
+  position: absolute;
+  top: 65px;
+  left: 846px;
+  width: 783px;
+  height: 718px;
+}
+.oip-1-1 {
+  top: 348px;
+  left: 0;
+  width: 665px;
+  height: 420px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  width: 295px;
+  height: 35px;
+}
+.je-dcouvre-la {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.je-dcouvre-la-formation {
+  position: absolute;
+  top: 7px;
+  left: 15px;
+  display: inline-block;
+  width: 269px;
+  height: 35px;
+  cursor: pointer;
+}
+.group-div1 {
+  position: absolute;
+  top: 541px;
+  left: 701px;
+  width: 295px;
+  height: 42px;
+  font-size: 22px;
+}
+.logo-facebook-icon,
+.logo-twitter-icon,
+.logo-youtube-icon {
+  position: absolute;
+  top: 733px;
+  left: 1243px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon,
+.logo-youtube-icon {
+  left: 1212px;
+}
+.logo-youtube-icon {
+  left: 1161px;
+  width: 50px;
+}
+.blank-line-p8 {
+  margin: 0;
+}
+.formation-web-et-web-mobile-un {
+  position: absolute;
+  top: 397px;
+  left: 701px;
+  font-size: 22px;
+  display: inline-block;
+  width: 389px;
+  height: 112px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.accueil-b {
+  position: absolute;
+  top: 113px;
+  left: 301px;
+  display: inline-block;
+}
+.contactez-nous-b,
+.la-formation-b,
+.nos-references-b,
+.temoignages-b {
+  position: absolute;
+  top: 113px;
+  left: 439px;
+  display: inline-block;
+  cursor: pointer;
+}
+.contactez-nous-b,
+.nos-references-b,
+.temoignages-b {
+  left: 641px;
+}
+.contactez-nous-b,
+.nos-references-b {
+  left: 840px;
+}
+.contactez-nous-b {
+  left: 1068px;
+}
+.accueil-div {
+  position: absolute;
+  top: 0;
+  left: 2097px;
+  background-color: #fff;
+  width: 1302px;
+  height: 768px;
+  overflow: hidden;
+}
+.oip-1-icon {
+  position: absolute;
+  top: 0;
+  left: 25px;
+  width: 250px;
+  height: 160px;
+  object-fit: cover;
+}
+.ellipse-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1121px;
+  height: 1062px;
+}
+.la-formation-dwwm {
+  position: absolute;
+  top: 298px;
+  left: 478px;
+  font-size: 48px;
+  color: #000;
+  display: inline-block;
+  -webkit-text-stroke: 2px #000;
+}
+.rectangle-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 58.46px;
+}
+.dure-div1 {
+  position: absolute;
+  top: 9.46px;
+  left: 174px;
+  display: inline-block;
+  width: 379.17px;
+  height: 60px;
+}
+.group-div2,
+.rectangle-div2 {
+  position: absolute;
+  top: 505.54px;
+  left: 879px;
+  width: 553.17px;
+  height: 69.46px;
+}
+.rectangle-div2 {
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 60px;
+}
+.admission-div1 {
+  position: absolute;
+  top: 3px;
+  left: 146px;
+  display: inline-block;
+  width: 375px;
+  height: 58.5px;
+}
+.group-div3 {
+  position: absolute;
+  top: 607px;
+  left: 115px;
+  width: 521px;
+  height: 61.5px;
+}
+.notre-pdagogie-div1 {
+  position: absolute;
+  top: 8px;
+  left: 83px;
+  display: inline-block;
+  width: 470.48px;
+  height: 52px;
+}
+.group-div4,
+.rectangle-div4 {
+  position: absolute;
+  top: 608px;
+  left: 879px;
+  width: 553.48px;
+  height: 60px;
+}
+.rectangle-div4 {
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 50px;
+}
+.le-mtier-div1 {
+  position: absolute;
+  top: 2px;
+  left: 156px;
+  display: inline-block;
+  width: 177.5px;
+}
+.group-div5,
+.rectangle-div5 {
+  position: absolute;
+  top: 413px;
+  left: 115px;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 50px;
+}
+.rectangle-div5 {
+  top: 0.18px;
+  left: 0;
+  background-color: #78be20;
+  height: 51.82px;
+}
+.qualifications-div {
+  position: absolute;
+  top: 0;
+  left: 118px;
+  display: inline-block;
+  width: 460px;
+  height: 30px;
+}
+.group-div6,
+.text-div {
+  position: absolute;
+  top: 511px;
+  left: 116px;
+  width: 578px;
+  height: 52px;
+}
+.text-div {
+  top: 425px;
+  left: 952px;
+  font-size: 32px;
+  font-family: Inter;
+  display: inline-block;
+  width: 465px;
+  height: 49px;
+  -webkit-text-stroke: 1px #fff;
+}
+.rectangle-div6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #78be20;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 500px;
+  height: 54.55px;
+}
+.les-modalits-dapprentissage {
+  position: absolute;
+  top: 8px;
+  left: 28px;
+  display: inline-block;
+  width: 491.4px;
+  height: 53.18px;
+}
+.group-div7 {
+  position: absolute;
+  top: 413px;
+  left: 879px;
+  width: 519.4px;
+  height: 61.18px;
+  font-size: 32px;
+}
+.ellipse-icon4,
+.ellipse-icon5 {
+  position: absolute;
+  top: 0;
+  left: 598px;
+  width: 970px;
+  height: 795px;
+}
+.ellipse-icon5 {
+  left: 0;
+  width: 1090px;
+  height: 583px;
+}
+.logo-facebook-icon1,
+.logo-twitter-icon1,
+.logo-youtube-icon1 {
+  position: absolute;
+  top: 987px;
+  left: 1403px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon1,
+.logo-youtube-icon1 {
+  left: 1372px;
+}
+.logo-youtube-icon1 {
+  left: 1316px;
+  width: 50px;
+}
+.accueil-b1 {
+  position: absolute;
+  top: 118px;
+  left: 290px;
+  font-size: 16px;
+  display: inline-block;
+  color: #000;
+  cursor: pointer;
+}
+.contactez-nous-b1,
+.la-formation-b1,
+.nos-references-b1,
+.temoignages-b1 {
+  position: absolute;
+  top: 118px;
+  left: 419px;
+  font-size: 16px;
+  display: inline-block;
+  color: #000;
+}
+.contactez-nous-b1,
+.nos-references-b1,
+.temoignages-b1 {
+  left: 597px;
+  cursor: pointer;
+}
+.contactez-nous-b1,
+.nos-references-b1 {
+  left: 775px;
+}
+.contactez-nous-b1 {
+  left: 981px;
+}
+.la-formation-div {
+  position: absolute;
+  top: 705px;
+  left: 6088px;
+  background-color: #fff;
+  width: 1440px;
+  height: 1022px;
+  overflow: hidden;
+  font-size: 40px;
+  color: #fff;
+}
+.le-dveloppeur-web-la-dvelo1 {
+  position: absolute;
+  top: 163px;
+  left: 151px;
+  display: inline-block;
+}
+.le-mtier-div2 {
+  position: absolute;
+  top: 982px;
+  left: 4499px;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 707px;
+  height: 470px;
+  overflow: hidden;
+}
+.titre-professionnel-de-niveau1 {
+  position: absolute;
+  top: 52px;
+  left: 96px;
+  display: inline-block;
+}
+.qualification-div1 {
+  position: absolute;
+  top: 1676px;
+  left: 4811px;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 725px;
+  height: 205px;
+  overflow: hidden;
+}
+.prrequis-tre-titulaire-du-ba1 {
+  position: absolute;
+  top: 97px;
+  left: 79px;
+  display: inline-block;
+}
+.admission-div2 {
+  position: absolute;
+  top: 2089px;
+  left: 5982px;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 965px;
+  height: 471px;
+  overflow: hidden;
+}
+.selon-les-tablissements-et-la1 {
+  position: absolute;
+  top: 86px;
+  left: 77px;
+  display: inline-block;
+}
+.modalits-dapprentissage-div1 {
+  position: absolute;
+  top: 1146px;
+  left: 7874px;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 789px;
+  height: 306px;
+  overflow: hidden;
+}
+.mois-environ-1190-heures-ad1 {
+  position: absolute;
+  top: 38px;
+  left: 32px;
+  display: inline-block;
+}
+.dure-div2 {
+  position: absolute;
+  top: 1709px;
+  left: 7913px;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 534px;
+  height: 172px;
+  overflow: hidden;
+}
+.notre-pdagige-privilgie-la-p1 {
+  position: absolute;
+  top: 94px;
+  left: 57px;
+  display: inline-block;
+}
+.notre-pdagogie-div2 {
+  position: absolute;
+  top: 2280px;
+  left: 7526px;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 879px;
+  height: 370px;
+  overflow: hidden;
+}
+.oip-3-icon {
+  position: absolute;
+  top: 0;
+  left: 36px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon6,
+.ellipse-icon7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1078px;
+  height: 679px;
+}
+.ellipse-icon7 {
+  left: 663px;
+  width: 1035px;
+  height: 935px;
+}
+.accueil-b2,
+.la-formation-b2 {
+  position: absolute;
+  top: 127px;
+  left: 347px;
+  font-size: 20px;
+  display: inline-block;
+  cursor: pointer;
+}
+.la-formation-b2 {
+  left: 480px;
+}
+.tmoignages-b {
+  left: 663px;
+}
+.contactez-nous-b2,
+.nos-rfrences-b,
+.tmoignages-b {
+  position: absolute;
+  top: 127px;
+  font-size: 20px;
+  display: inline-block;
+}
+.nos-rfrences-b {
+  left: 854px;
+  cursor: pointer;
+}
+.contactez-nous-b2 {
+  left: 1060px;
+}
+.r-1-div {
+  position: absolute;
+  top: 343px;
+  left: 0;
+  width: 1379px;
+  height: 681px;
+}
+.contactez-nous-div1,
+.nom-prnom,
+.vos-modalits-prfrs {
+  position: absolute;
+  top: 344px;
+  left: 44px;
+  display: inline-block;
+}
+.nom-prnom,
+.vos-modalits-prfrs {
+  top: 433px;
+}
+.vos-modalits-prfrs {
+  top: 826px;
+}
+.rectangle-icon,
+.rectangle-icon1,
+.rectangle-icon2 {
+  position: absolute;
+  top: 439px;
+  left: 397px;
+  border-radius: 50px;
+  width: 314px;
+  height: 39px;
+}
+.rectangle-icon1,
+.rectangle-icon2 {
+  top: 545px;
+}
+.rectangle-icon2 {
+  top: 646px;
+}
+.adresse-mail,
+.tlphone-div,
+.vous-tes {
+  position: absolute;
+  top: 536px;
+  left: 44px;
+  display: inline-block;
+}
+.tlphone-div,
+.vous-tes {
+  top: 638px;
+}
+.vous-tes {
+  top: 734px;
+}
+.autre-b,
+.demandeur-demploi-b,
+.salari-en-transition-pro {
+  position: absolute;
+  top: 755px;
+  left: 407px;
+  font-size: 16px;
+  display: inline-block;
+}
+.autre-b,
+.salari-en-transition-pro {
+  left: 762px;
+}
+.autre-b {
+  top: 752px;
+  left: 1142px;
+}
+.alternance-b,
+.distance-b,
+.formation-en-prsentiel,
+.pas-de-prfrence {
+  position: absolute;
+  top: 839px;
+  left: 526px;
+  font-size: 16px;
+  display: inline-block;
+}
+.alternance-b,
+.distance-b,
+.pas-de-prfrence {
+  left: 828px;
+}
+.alternance-b,
+.pas-de-prfrence {
+  top: 842px;
+  left: 1062px;
+}
+.pas-de-prfrence {
+  top: 838px;
+  left: 1238px;
+}
+.vous-tes-rsident-de {
+  position: absolute;
+  top: 929px;
+  left: 44px;
+  display: inline-block;
+}
+.rectangle-div7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #fff;
+}
+.rgions-b {
+  position: absolute;
+  height: 66.67%;
+  width: 43.75%;
+  top: 15.69%;
+  right: 44.85%;
+  bottom: 17.65%;
+  left: 11.4%;
+  display: inline-block;
+}
+.vector-icon {
+  position: absolute;
+  height: 62.94%;
+  width: 10.47%;
+  top: 18.95%;
+  right: 5.63%;
+  bottom: 18.11%;
+  left: 83.89%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-div9 {
+  position: absolute;
+  height: 20.08%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 79.92%;
+  left: 0;
+}
+.group-div8 {
+  position: absolute;
+  top: 922px;
+  left: 483px;
+  width: 272px;
+  height: 254px;
+  font-size: 30px;
+}
+.component-2-icon {
+  position: absolute;
+  top: 752px;
+  left: 359px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.component-2-icon1,
+.component-2-icon2 {
+  position: absolute;
+  top: 753px;
+  left: 714px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.component-2-icon2 {
+  top: 751px;
+  left: 1095px;
+  width: 24px;
+  height: 24px;
+}
+.component-2-icon3,
+.component-3-icon,
+.component-4-icon,
+.component-5-icon {
+  position: absolute;
+  top: 837px;
+  left: 474px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.component-3-icon,
+.component-4-icon,
+.component-5-icon {
+  left: 777px;
+}
+.component-4-icon,
+.component-5-icon {
+  left: 1024px;
+}
+.component-5-icon {
+  left: 1202px;
+}
+.ellipse-icon8 {
+  position: absolute;
+  top: 105px;
+  left: 948px;
+  width: 1001px;
+  height: 1012px;
+}
+.logo-facebook-icon2,
+.logo-twitter-icon2,
+.logo-youtube-icon2 {
+  position: absolute;
+  top: 1256px;
+  left: 1345px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon2,
+.logo-youtube-icon2 {
+  left: 1314px;
+}
+.logo-youtube-icon2 {
+  left: 1258px;
+  width: 50px;
+}
+.rectangle-div8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 100px;
+  background: linear-gradient(180deg, #78be20, rgba(120, 190, 32, 0));
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.envoyer-div {
+  position: absolute;
+  height: 66.67%;
+  width: 47.8%;
+  top: 16.67%;
+  right: 26.42%;
+  bottom: 16.67%;
+  left: 25.79%;
+  display: inline-block;
+}
+.component-6-div {
+  position: absolute;
+  top: 1081px;
+  left: 925px;
+  width: 159px;
+  height: 36px;
+  font-size: 20px;
+  font-family: Inter;
+}
+.contactez-nous-div {
+  position: absolute;
+  top: 1263px;
+  left: 124px;
+  background-color: #fff;
+  width: 1315px;
+  height: 1296px;
+  overflow: hidden;
+  font-size: 32px;
+}
+.bretagne {
+  position: absolute;
+  height: 66.67%;
+  width: 48.16%;
+  top: 13.73%;
+  right: 40.44%;
+  bottom: 19.61%;
+  left: 11.4%;
+  display: inline-block;
+}
+.centre-b,
+.group-div12 {
+  position: absolute;
+  height: 20.08%;
+  width: 100%;
+  top: 20.08%;
+  right: 0;
+  bottom: 59.84%;
+  left: 0;
+}
+.centre-b {
+  height: 66.67%;
+  width: 35.29%;
+  top: 13.73%;
+  right: 53.31%;
+  bottom: 19.61%;
+  left: 11.4%;
+  display: inline-block;
+}
+.group-div13,
+.ile-de-france {
+  position: absolute;
+  height: 20.08%;
+  width: 100%;
+  top: 39.76%;
+  right: 0;
+  bottom: 40.16%;
+  left: 0;
+}
+.ile-de-france {
+  height: 66.67%;
+  width: 64.71%;
+  top: 13.73%;
+  right: 23.9%;
+  bottom: 19.61%;
+  left: 11.4%;
+  display: inline-block;
+}
+.group-div14 {
+  height: 20.08%;
+  width: 100%;
+  top: 59.84%;
+  right: 0;
+  bottom: 20.08%;
+  left: 0;
+}
+.b,
+.group-div14,
+.group-div15 {
+  position: absolute;
+}
+.b {
+  height: 66.67%;
+  width: 9.56%;
+  top: 13.73%;
+  right: 79.04%;
+  bottom: 19.61%;
+  left: 11.4%;
+  display: inline-block;
+}
+.group-div15 {
+  height: 20.08%;
+  width: 100%;
+  top: 79.92%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.bretagne1,
+.property-1variant2-div {
+  position: absolute;
+  top: 20px;
+  left: 346px;
+  width: 272px;
+  height: 254px;
+}
+.bretagne1 {
+  height: 66.67%;
+  width: 48.16%;
+  top: 15.69%;
+  right: 40.44%;
+  bottom: 17.65%;
+  left: 11.4%;
+  display: inline-block;
+}
+.centre-b1,
+.property-1variant3-div {
+  position: absolute;
+  top: 20px;
+  left: 672px;
+  width: 272px;
+  height: 254px;
+}
+.centre-b1 {
+  height: 66.67%;
+  width: 35.29%;
+  top: 15.69%;
+  right: 53.31%;
+  bottom: 17.65%;
+  left: 11.4%;
+  display: inline-block;
+}
+.ile-de-france1,
+.property-1variant4-div {
+  position: absolute;
+  top: 20px;
+  left: 998px;
+  width: 272px;
+  height: 254px;
+}
+.ile-de-france1 {
+  height: 66.67%;
+  width: 64.71%;
+  top: 15.69%;
+  right: 23.9%;
+  bottom: 17.65%;
+  left: 11.4%;
+  display: inline-block;
+}
+.b1,
+.property-1variant5-div {
+  position: absolute;
+  top: 20px;
+  left: 1324px;
+  width: 272px;
+  height: 254px;
+}
+.b1 {
+  height: 66.67%;
+  width: 9.56%;
+  top: 15.69%;
+  right: 79.04%;
+  bottom: 17.65%;
+  left: 11.4%;
+  display: inline-block;
+}
+.property-1default-div,
+.property-1variant6-div {
+  position: absolute;
+  top: 20px;
+  left: 1650px;
+  width: 272px;
+  height: 254px;
+}
+.property-1default-div {
+  left: 39px;
+}
+.group-div10,
+.menu-droulant-div {
+  position: absolute;
+  overflow: hidden;
+}
+.group-div10 {
+  top: 91px;
+  left: 184px;
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  width: 1942px;
+  height: 568px;
+}
+.menu-droulant-div {
+  top: 2825px;
+  left: 0;
+  background-color: #fff;
+  width: 2059px;
+  height: 1016px;
+  font-size: 30px;
+}
+.oip-4-icon {
+  position: absolute;
+  top: 0;
+  left: 42px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon9 {
+  position: absolute;
+  top: 118px;
+  left: 916px;
+  width: 779px;
+  height: 537px;
+}
+.ellipse-icon10,
+.rectangle-div19 {
+  position: absolute;
+  top: 103px;
+  left: 233px;
+  width: 778px;
+  height: 383px;
+}
+.rectangle-div19 {
+  top: 1231px;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 50px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1461px;
+  height: 55px;
+}
+.ellipse-icon11,
+.ellipse-icon12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1057px;
+  height: 722px;
+}
+.ellipse-icon12 {
+  left: 564.64px;
+  width: 1000px;
+  height: 991px;
+}
+.accueil-b3 {
+  position: absolute;
+  top: 103px;
+  left: 292px;
+  display: inline-block;
+}
+.la-formation-b3,
+.nos-references-b2,
+.temoignages-b2 {
+  position: absolute;
+  top: 103px;
+  left: 449px;
+  display: inline-block;
+}
+.nos-references-b2,
+.temoignages-b2 {
+  left: 669px;
+}
+.nos-references-b2 {
+  left: 888px;
+  cursor: pointer;
+}
+.contactez-nous-b3,
+.les-stagiaires-tmoignent {
+  position: absolute;
+  top: 103px;
+  left: 1142px;
+  display: inline-block;
+}
+.les-stagiaires-tmoignent {
+  top: 329px;
+  left: 449px;
+  font-size: 40px;
+  filter: blur(0);
+}
+.rectangle-div20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #fff;
+  width: 300px;
+  height: 600px;
+}
+.portrait-1-icon {
+  position: absolute;
+  top: 22px;
+  left: 57px;
+  width: 128px;
+  height: 87px;
+  object-fit: cover;
+}
+.entreprise-b {
+  font-family: Arial;
+}
+.alexis-garnier-entreprise-wi {
+  position: absolute;
+  top: 124px;
+  left: 29px;
+  display: inline-block;
+  width: 208px;
+  height: 467px;
+}
+.group-div21,
+.rectangle-div21 {
+  position: absolute;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 600px;
+}
+.group-div21 {
+  top: 503px;
+  left: 68px;
+  width: 300px;
+  font-size: 14px;
+}
+.rectangle-div21 {
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #fff;
+  width: 301px;
+}
+.portrait-2-icon {
+  position: absolute;
+  top: 3px;
+  left: 87px;
+  width: 128px;
+  height: 99.37px;
+  object-fit: cover;
+}
+.sarah-chesne-entreprise-sii {
+  position: absolute;
+  top: 121px;
+  left: 22px;
+  display: inline-block;
+  width: 277px;
+  height: 466px;
+}
+.group-div22 {
+  position: absolute;
+  top: 503px;
+  left: 568px;
+  width: 301px;
+  height: 600px;
+  font-size: 14px;
+}
+.rectangle-div22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #fff;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 300px;
+  height: 600px;
+}
+.portrait-3-icon {
+  position: absolute;
+  top: 20px;
+  left: 77px;
+  width: 128px;
+  height: 101.55px;
+  object-fit: cover;
+}
+.antoine-germanique-entreprise {
+  position: absolute;
+  top: 126px;
+  left: 16px;
+  display: inline-block;
+  width: 280px;
+  height: 473px;
+}
+.group-div23 {
+  position: absolute;
+  top: 503px;
+  left: 1091px;
+  width: 300px;
+  height: 600px;
+  font-size: 13px;
+}
+.logo-facebook-icon3,
+.logo-twitter-icon3,
+.logo-youtube-icon3 {
+  position: absolute;
+  top: 1141px;
+  left: 1425px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon3,
+.logo-youtube-icon3 {
+  left: 1394px;
+}
+.logo-youtube-icon3 {
+  left: 1338px;
+  width: 50px;
+}
+.nos-tmoignages-div {
+  position: absolute;
+  top: 3207px;
+  left: 6009px;
+  background-color: #fff;
+  width: 1461px;
+  height: 1176px;
+  overflow: hidden;
+}
+.component-2-div,
+.property-1icone-plein,
+.property-1icone-vide {
+  position: absolute;
+  top: 20px;
+  left: 108px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.component-2-div,
+.property-1icone-vide {
+  left: 20px;
+}
+.component-2-div {
+  top: 2084px;
+  left: 1474px;
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  width: 145px;
+  height: 64px;
+}
+.oip-5-icon {
+  position: absolute;
+  top: 8px;
+  left: 23px;
+  width: 250px;
+  height: 161px;
+  object-fit: cover;
+}
+.ellipse-icon13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1293px;
+  height: 748px;
+}
+.ellipse-icon14,
+.ellipse-icon15 {
+  position: absolute;
+  top: 0;
+  left: 129px;
+  width: 1408px;
+  height: 942px;
+}
+.ellipse-icon15 {
+  left: 766px;
+  width: 1131px;
+  height: 1191px;
+}
+.accueil-b4,
+.la-formation-b4,
+.tmoignages-b1 {
+  position: absolute;
+  top: 141px;
+  left: 354px;
+  display: inline-block;
+  cursor: pointer;
+}
+.la-formation-b4,
+.tmoignages-b1 {
+  left: 507px;
+}
+.tmoignages-b1 {
+  left: 710px;
+}
+.contactez-nous-b4,
+.nos-rfrences-b1 {
+  position: absolute;
+  top: 141px;
+  left: 921px;
+  display: inline-block;
+}
+.contactez-nous-b4 {
+  left: 1147px;
+  cursor: pointer;
+}
+.logo-1-icon,
+.logo-2-icon {
+  position: absolute;
+  top: 555.49px;
+  left: 56.73px;
+  border-radius: 412px;
+  width: 400px;
+  height: 250.59px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-2-icon {
+  top: 555.37px;
+  left: 568.56px;
+  height: 243.76px;
+}
+.ces-entreprises-nous-ont-fait {
+  position: absolute;
+  top: 343px;
+  left: 57px;
+  font-size: 40px;
+  display: inline-block;
+}
+.rfrences-div {
+  position: absolute;
+  top: 4205px;
+  left: 2477px;
+  background-color: #fff;
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.logo-facebook-icon4,
+.logo-twitter-icon4,
+.logo-youtube-icon4 {
+  position: absolute;
+  top: 5199px;
+  left: 3885px;
+  width: 25px;
+  height: 22px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-facebook-icon4,
+.logo-youtube-icon4 {
+  left: 3854px;
+}
+.logo-youtube-icon4 {
+  left: 3798px;
+  width: 50px;
+}
+.group-div {
+  position: relative;
+  width: 100%;
+  height: 5229px;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}
+.blank-line-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.et-des-acquis {
+  margin: 0;
+}
+.mois-environ-1190-heures-ad {
+  position: absolute;
+  top: 38px;
+  left: 32px;
+  display: inline-block;
+}
+.dure-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 534px;
+  height: 172px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}
+.prrequis {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.accs-la {
+  margin: 0;
+}
+.prrequis-tre-titulaire-du-ba {
+  position: absolute;
+  top: 97px;
+  left: 79px;
+  display: inline-block;
+}
+.admission-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 965px;
+  height: 471px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}
+.notre-pdagige-privilgie {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.nous-crons-un {
+  margin: 0;
+}
+.notre-pdagige-privilgie-la-p {
+  position: absolute;
+  top: 94px;
+  left: 57px;
+  display: inline-block;
+}
+.notre-pdagogie-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 879px;
+  height: 370px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}
+.le-dveloppeur-web {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.projet-et-de {
+  margin: 0;
+}
+.le-dveloppeur-web-la-dvelo {
+  position: absolute;
+  top: 163px;
+  left: 151px;
+  display: inline-block;
+}
+.le-mtier-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 707px;
+  height: 470px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}
+.titre-professionnel-de {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.web-et-web {
+  margin: 0;
+}
+.titre-professionnel-de-niveau {
+  position: absolute;
+  top: 52px;
+  left: 96px;
+  display: inline-block;
+}
+.qualification-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 725px;
+  height: 205px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}
+.selon-les-tablissements {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.alternance-avec-des {
+  margin: 0;
+}
+.selon-les-tablissements-et-la {
+  position: absolute;
+  top: 86px;
+  left: 77px;
+  display: inline-block;
+}
+.modalits-dapprentissage-div {
+  position: relative;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 789px;
+  height: 306px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Arial;
+}
